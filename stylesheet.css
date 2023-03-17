@@ -1,0 +1,14 @@
+.title {
+    color: #02cc02;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+  }
+
+  a {
+    text-align: center;
+    display: inline-block;
+  }
